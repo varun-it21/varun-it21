@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VARUN M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **react js , node js**
+- 🌱 I’m currently learning **react js 
 
 - 👯 I’m looking to collaborate on **everyone**
 
