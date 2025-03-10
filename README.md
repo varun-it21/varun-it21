@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VARUN M</h1>
 <h3 align="center">Frontend Developer || UI Designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-it21" alt="varun-it21" /></a> </p>
+
 
 - 🌱 I’m currently learning **react js , node js**
 
