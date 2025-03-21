@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react js , node js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/varun-it21v](https://github.com/varun-it21)
+- 👨‍💻 All of my projects are available at [https://github.com/varun-it21](https://github.com/varun-it21)
 
 - 😎 To know about me visit **https://varun-portfolio-tau.vercel.app/**
 
