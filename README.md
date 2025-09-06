@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **react js , node js**
+- 🌱 I’m currently learning **Java Fullstack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varun-it21](https://github.com/varun-it21)
 
