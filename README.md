@@ -1,72 +1,68 @@
-<h1 align="center">Hi 👋, I'm VARUN M</h1>
-<h3 align="center">Frontend Developer || UI Designer</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm <span style="color:#00bfff;">Varun M</span></h1>
+<h3 align="center">💻 Frontend Developer | 🎨 UI Designer | 🚀 Java Fullstack Learner</h3>
 
-
-
-- 🌱 I’m currently learning **Java Fullstack**
-
-- 👨‍💻 All of my projects are available at [https://github.com/varun-it21](https://github.com/varun-it21)
-
-- 😎 To know about me visit **https://varun-portfolio-tau.vercel.app/**
-
-- 📫 How to reach me **varunrohith626@gmail.com**
-
-- 📄 **I’m a passionate frontend developer specializing in ReactJS, Tailwind CSS, and JavaScript. With hands-on experience in crafting engaging and responsive web interfaces, I focus on clean code, intuitive design, and seamless user experiences. Proficient in Git, I’m always learning and striving to build visually appealing and impactful web solutions.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-m-b8751a2ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-m-b8751a2ba/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=varun-it21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/varun-it21?label=Followers&style=social" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-  </a>
-  <!-- Added Java, Bootstrap, Tailwind CSS -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
-  </a>
+---
 
+### 🧠 About Me  
+- 🌱 Currently learning **Java Fullstack Development**  
+- 👨‍💻 All my projects are available at [**GitHub → varun-it21**](https://github.com/varun-it21)  
+- 😎 Know more about me → [**Portfolio Website**](https://varun-portfolio-tau.vercel.app/)  
+- 📫 Reach me at **varunrohith626@gmail.com**  
+- ✨ Passionate about crafting **clean, responsive, and engaging web interfaces** using modern technologies.  
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-it21&" alt="varun-it21" /></p> -->
+---
 
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-m-b8751a2ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:varunrohith626@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://varun-portfolio-tau.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚙️ Tech Stack
+
+#### 🌈 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,sketch" />
+</p>
+
+#### ☕ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb" />
+</p>
+
+#### 🧰 Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varun-it21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-it21&theme=tokyonight" alt="streak stats" />
+</p>
+
+---
+
+### ✨ “Code. Design. Create.”  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI+Designer;ReactJS+Enthusiast;Java+Fullstack+Learner" alt="Typing SVG" />
+</p>
