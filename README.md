@@ -57,9 +57,9 @@
 
 ---
 
-# 📊 GitHub Insights  
+# 📊 GitHub Contributions  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun-it21&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-it21&theme=tokyonight" />
 </p>
 
 
