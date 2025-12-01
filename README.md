@@ -1,73 +1,85 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Varun+M;Fullstack+Developer;UI+Designer;Java+%26+MERN+Stack+Learner" alt="Typing SVG" />
+</p>
+
 <!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm <span style="color:#00bfff;">Varun M</span></h1>
-<h3 align="center">💻 Fullstack Developer | 🎨 UI Designer </h3>
+<h1 align="center">🚀 Fullstack Developer | 🎨 UI Designer</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varun-it21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/varun-it21?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=varun-it21&label=Profile%20Views&color=00C2FF&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/varun-it21?label=Followers&color=00C2FF&style=flat" alt="followers" />
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🌱 Currently learning **Java Fullstack Development**  
-- 👨‍💻 All my projects are available at [**GitHub → varun-it21**](https://github.com/varun-it21)  
-- 😎 Know more about me → [**Portfolio Website**](https://varun-portfolio-tau.vercel.app/)  
-- 📫 Reach me at **varunrohith626@gmail.com**  
-- ✨ Passionate about crafting **clean, responsive, and engaging web interfaces** using modern technologies.  
+## 🧑‍💻 About Me  
+- 🌱 Learning **Java Fullstack + MERN Stack**  
+- 🧠 Interested in **UI/UX, Clean Code, & Modern Web Apps**  
+- 🌐 Portfolio → [varun-portfolio-tau.vercel.app](https://varun-portfolio-tau.vercel.app/)  
+- 📫 Reach me → **varunrohith626@gmail.com**
 
 ---
 
-### 🌐 Connect With Me  
+# 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/varun-m-b8751a2ba/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/varun-m-b8751a2ba/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
   <a href="mailto:varunrohith626@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
   </a>
-  <a href="https://varun-portfolio-tau.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://varun-portfolio-tau.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" height="48" />
   </a>
 </p>
 
 ---
 
-### ⚙️ Tech Stack
+# ⚡ Tech Stack
 
-#### 🌈 Frontend
+### 🎨 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,sketch" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
 </p>
 
-#### ☕ Backend 
+### ☕ Backend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
 
-#### 🗄️ Database
+### 🗄️ Database  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-#### 🧰 Tools & Others
+### 🧰 Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,photoshop" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 🌟 Featured Projects  
+> *(Add your top 3–4 projects here — I can design this section too if you want!)*
+
+---
+
+# 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun-it21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varun-it21&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-it21&layout=compact&theme=tokyonight" height="150" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-it21&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-it21&theme=tokyonight" />
 </p>
 
 ---
 
-### ✨ “Code. Design. Create.”  
+# 🔥 Fun Quote  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI+Designer;ReactJS+Enthusiast;Java+Fullstack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=00C2FF&center=true&vCenter=true&width=600&lines=Code.+Design.+Create.;Build+something+new+everyday.;Consistency+beats+talent." />
 </p>
+
+---
