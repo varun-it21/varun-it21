@@ -6,11 +6,6 @@
 <!-- Profile Header -->
 <h1 align="center">🚀 Fullstack Developer | 🎨 UI Designer</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varun-it21&label=Profile%20Views&color=00C2FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/varun-it21?label=Followers&color=00C2FF&style=flat" alt="followers" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me  
@@ -60,20 +55,13 @@
 
 ---
 
-# 🌟 Featured Projects  
-> *(Add your top 3–4 projects here — I can design this section too if you want!)*
-
 ---
 
 # 📊 GitHub Insights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varun-it21&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-it21&layout=compact&theme=tokyonight" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-it21&theme=tokyonight" />
-</p>
 
 ---
 
