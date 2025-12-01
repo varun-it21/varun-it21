@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm <span style="color:#00bfff;">Varun M</span></h1>
-<h3 align="center">💻 Frontend Developer | 🎨 UI Designer | 🚀 Java Fullstack Learner</h3>
+<h3 align="center">💻 Fullstack Developer | 🎨 UI Designer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=varun-it21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -40,9 +40,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,sketch" />
 </p>
 
-#### ☕ Backend & Database
+#### ☕ Backend 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</p>
+
+#### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 #### 🧰 Tools & Others
